@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    margin-left: 2%;
+    padding: 0%;
+}
+h2{
+    font-size: 20px;
+}
+.titulo{
+    text-align: center;
+    background-color: ivory;
+}
+.central01 {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.contato{
+    margin-top: 5%;
+    padding-top: 5%;
+    width: 300px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px ;
+    box-shadow: 5px 5px  whitesmoke;
+    background-color: whitesmoke;
+}
+.contato p{
+    margin-left:10% ;
+}
+.skills{
+    margin-top: 5%;
+    padding-top: 5%;
+    width: 300px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px  whitesmoke;
+    background-color: whitesmoke;
+}
+.skills ul li{
+    margin-left:10% ;
+}
+.formacao{
+    margin-top: 5%;
+    padding-top: 5%;
+    width: 300px;
+    height: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px  whitesmoke;
+    background-color: whitesmoke;
+}
+.formacao ul li{
+    margin-left:10% ;
+}
+.sobre{
+    margin-top: 5%;
+    padding-top: 5%;
+    width: 400px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px  whitesmoke;
+    background-color: whitesmoke;
+    text-align: justify;
+}
+.exp{
+    margin-top: 5%;
+    padding-top: 5%;
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px  whitesmoke;
+    background-color: whitesmoke;
+
+}
+.exp ul li{
+    padding-top: 5%;
+    margin-left:10% ;
+}
